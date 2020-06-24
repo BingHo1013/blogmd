@@ -1,4 +1,9 @@
-Author: Han Xiao, Founder & CEO of Jina AI. 
+# All in Open-Source AI
+
+
+Author: Han Xiao, Founder & CEO of Jina AI.  
+Edited by Bing He.
+
 
 In Feb. 2020, I left Tencent AI and found my startup Jina AI. Jina AI is a neural search company that provides cloud-native neural search solutions powered by AI and deep learning. On April 28th 2020, we released our core product ***"Jina"*** ; in open source. You can use Jina for searching anything: image-to-image, video-to-video, tweet-to-tweet, audio-to-audio, code-to-code, etc. To understand our ambition at Jina AI, I often explain Jina with two analogies.
 
@@ -68,4 +73,5 @@ The most important thing is often your understanding and belief in open source. 
 
 
 Whoever person you are, it's always **what you believe in open source makes what open source is**.
+
 
